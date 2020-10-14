@@ -27,7 +27,7 @@ a {
 
 .userinfo {
     height: 60px;
-    width: 60px;
+    /* width: 60px; */
     line-height: 60px;
     text-align: center;
     font-size: 12px;
@@ -54,7 +54,8 @@ a {
     font-size: 20px;
     color: #ffff;
     position: relative;
-    top: -56px;
-    left: 40px;
+    top: 5px;
+    /* top: -56px; */
+    /* left: 40px; */
     margin-right: 10px;
 }
